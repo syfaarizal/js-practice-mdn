@@ -19,3 +19,15 @@
 function increment() {
     console.log("The button was clicked");
 }
+
+// let count = 0;
+
+// function increment() {
+//     count = count + 1;
+// }
+
+// increment();
+// increment();
+// increment();
+
+// console.log(count); // This will log the updated count value
