@@ -38,3 +38,9 @@ function increment() {
 // increment();
 
 // console.log(count); // This will log the updated count value
+
+// function decrement() {
+//     count = count - 1;
+//     countEl.innerText = count;
+//     console.log(count);
+// }
