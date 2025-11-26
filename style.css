@@ -34,3 +34,25 @@ button {
     background-color: darkgreen;
 }
 
+#decrement-btn {
+    background-color: darkblue;
+}
+
+#decrement-btn:hover {
+    background-color: darkred;
+}
+#reset-btn {
+    background-color: darkgray;
+}
+
+#reset-btn:hover {
+    background-color: darkblue;
+}
+#counter-value {
+    font-size: 80px;
+    margin: 20px 0;
+}
+#history-list {
+    list-style-type: none;
+    padding: 0;
+}
